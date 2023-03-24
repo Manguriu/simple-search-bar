@@ -1,0 +1,6 @@
+.results-style {
+    padding: 10px 20px;
+}
+.results-style:hover {
+    background-color: dimgrey;
+}
